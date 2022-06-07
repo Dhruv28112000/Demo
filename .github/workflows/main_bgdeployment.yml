@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'bgdeployment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2072BDF75D214CEB931CC4155D6A2BB4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_550799904D484A4699F30B0628D7E6E0 }}
           package: .
